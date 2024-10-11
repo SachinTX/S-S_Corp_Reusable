@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Btn_Recalculate",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "4av137aEkkmIDCLAA_WZTA",
+  "Reference": "2K6Nr8prXkCeYbAkIOHYHg/4av137aEkkmIDCLAA_WZTA",
+  "ParentRef": "2K6Nr8prXkCeYbAkIOHYHg/6InAkPRsg0imLpcBsNsr8A",
+  "Created": "2024-09-24T15:24:15.9155401Z",
+  "Updated": "2024-09-25T08:14:20.0249108Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.10.3.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.10.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

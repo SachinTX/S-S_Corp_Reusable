@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="kMyYd-Nu_0uVdznFGSdyYw" Reference="2K6Nr8prXkCeYbAkIOHYHg/Cox4Zqg1gk6XCJdHz4nEBQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://devuicorp.ssactivewear.com/CSR/ChangeAccount.aspx" DesignTimeRectangle="412, 269, 70, 46" DesignTimeScaleFactor="1.25" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='CSR' tag='A' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='CSR' tag='A' type='' class='' check:text='CSR' /&gt;" Guid="2f0567e4-b7d0-4c6a-9360-9ed70ef40f9b" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='DEV: CSR - Change Account' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive" WaitForReadyArgument="Complete">
+      <imageRef attrName="InformativeScreenshot" originalValue="750584150054081eb9500c9eba80d166.png" xmlns="">0m8LMXsorlEiobqnH5Fx6wA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Btn_OpenAll",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "jTGvy08BW0Wpu73vy_qwcQ",
+  "Reference": "2K6Nr8prXkCeYbAkIOHYHg/jTGvy08BW0Wpu73vy_qwcQ",
+  "ParentRef": "2K6Nr8prXkCeYbAkIOHYHg/w03uU-6lgEuENoWVSlcpKQ",
+  "Created": "2024-10-10T11:53:23.5670244Z",
+  "Updated": "2024-10-10T11:55:30.4249012Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.10.3.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.10.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
