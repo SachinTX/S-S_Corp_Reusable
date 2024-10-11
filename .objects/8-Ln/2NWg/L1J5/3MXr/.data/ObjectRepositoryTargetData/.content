@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="sypK5F2_p0mVTtn6M7KuMw" Reference="2K6Nr8prXkCeYbAkIOHYHg/3MXr4JRfpkaAf1kZbuZ3Wg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://devuicorp.ssactivewear.com/Home/login.aspx" CVScreenId="f10657d8-f345-4552-a3ff-1529bc4e3356" CvElementArea="899, 754, 309, 48" CvTextArea="1022, 765, 61, 28" CvTextArgument="Login" CvType="Button" DesignTimeRectangle="901, 757, 306, 43" DesignTimeScaleFactor="1.25" ElementType="Button" FullSelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl id='zLoginBTB' tableRow='3' tag='INPUT' aaname='Login' class='login_Button' type='submit' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl id='zLoginBTB' tag='INPUT' aaname='Login' class='login_Button' type='submit' check:text='Login' /&gt;" Guid="46f4534c-af2d-4752-b806-76fcb4b44a4b" ScopeSelectorArgument="&lt;html app='chrome.exe' title='DEV: Login' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive" WaitForReadyArgument="Complete">
+      <imageRef attrName="InformativeScreenshot" originalValue="19c79bfff6a0c1026a8ca3cfc47eb5b7.png" xmlns="">0pBksxRkQ20yv7agHoQuARg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

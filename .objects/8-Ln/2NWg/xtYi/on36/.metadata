@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Btn_AddToCart/CheckOut",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "on36cZwENk20uz1R-gdBew",
+  "Reference": "2K6Nr8prXkCeYbAkIOHYHg/on36cZwENk20uz1R-gdBew",
+  "ParentRef": "2K6Nr8prXkCeYbAkIOHYHg/xtYikiybZkG-hKaqtAif6w",
+  "Created": "2024-09-24T15:13:28.1307399Z",
+  "Updated": "2024-09-25T08:10:06.551411Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.10.3.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.10.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

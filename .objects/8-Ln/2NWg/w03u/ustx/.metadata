@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Chk_ViewByWarehouse",
+  "Type": "Element",
+  "TaxonomyType": "Checkbox",
+  "Id": "ustx2e0R1kqPsjYtZZNzqg",
+  "Reference": "2K6Nr8prXkCeYbAkIOHYHg/ustx2e0R1kqPsjYtZZNzqg",
+  "ParentRef": "2K6Nr8prXkCeYbAkIOHYHg/w03uU-6lgEuENoWVSlcpKQ",
+  "Created": "2024-10-10T11:59:56.5866698Z",
+  "Updated": "2024-10-10T12:01:29.538205Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.10.3.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.10.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
