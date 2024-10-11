@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Lbl_Brands",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "-R1qp7elB0S0eWbhmdrS4g",
+  "Reference": "2K6Nr8prXkCeYbAkIOHYHg/-R1qp7elB0S0eWbhmdrS4g",
+  "ParentRef": "2K6Nr8prXkCeYbAkIOHYHg/632V0xb2NkqYy0yagjcDhQ",
+  "Created": "2024-09-24T13:56:13.7746798Z",
+  "Updated": "2024-09-25T08:11:49.4888448Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.10.3.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.10.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

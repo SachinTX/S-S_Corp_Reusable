@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Rdo_SelectAllOrderQuantity",
+  "Type": "Element",
+  "TaxonomyType": "RadioButton",
+  "Id": "ueJnCGKQUUGIuR8q107s5w",
+  "Reference": "2K6Nr8prXkCeYbAkIOHYHg/ueJnCGKQUUGIuR8q107s5w",
+  "ParentRef": "2K6Nr8prXkCeYbAkIOHYHg/xtYikiybZkG-hKaqtAif6w",
+  "Created": "2024-09-27T10:06:33.0566267Z",
+  "Updated": "2024-09-27T10:08:40.0661596Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.10.3.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.10.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

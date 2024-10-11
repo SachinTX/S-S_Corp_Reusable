@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="PoL9nl7jokO3u7hZ7JxMnA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://devuicorp.ssactivewear.com/Home/login.aspx" CVScreenId="0a383296-3a37-4672-9728-11fccbff4e7d" CvElementArea="600, 917, 735, 51" CvTextArea="737, 931, 461, 22" CvTextArgument="Login failed. Please check credentials and try again." CvType="Button" DesignTimeRectangle="607, 919, 725, 48" DesignTimeScaleFactor="1.25" ElementType="Text" FullSelectorArgument="&lt;webctrl id='*PopupReplacement' tag='DIV' aaname='Login failed. Please check credentials and try again.' visibleinnertext='Login failed. Please check credentials and try again.' /&gt;" FuzzySelectorArgument="&lt;webctrl id='*PopupReplacement' tag='DIV' visibleinnertext='Login failed. Please check credentials and try again.' type='' class='login_popupReplacementDiv' /&gt;" Guid="6cb0afd0-508e-49b0-96ea-39e912ecf5a7" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='DEV: Login' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="65bebf67324e6012b746784f9d326f8d.png" xmlns="">0aWj_VaC3oEK509PNPHIUBg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
