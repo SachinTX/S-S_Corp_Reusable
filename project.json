@@ -5,10 +5,7 @@
   "main": "NewActivity.xaml",
   "dependencies": {
     "atuipath_utilities": "[1.0.182093645]",
-    "UiPath.Excel.Activities": "[2.24.2]",
-    "UiPath.Mail.Activities": "1.23.1",
     "UiPath.System.Activities": "24.10.3",
-    "UiPath.Testing.Activities": "24.10.0",
     "UiPath.UIAutomation.Activities": "24.10.0"
   },
   "webServices": [],
