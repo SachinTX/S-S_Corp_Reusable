@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-16"?>
-<ObjectRepositoryTargetData ContentHash="u9SubufYt0urfiUFdcSokQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
-  <ObjectRepositoryTargetData.Data>
-    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://devuicorp.ssactivewear.com/Home/Default.aspx" DesignTimeRectangle="413, 339, 150, 150" DesignTimeScaleFactor="1.25" ElementType="Icon" FullSelectorArgument="&lt;webctrl aaname='CSR' tag='IMG' parentclass='icons' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='CSR' tag='IMG' parentclass='icons' type='' class='' /&gt;" Guid="f316b489-727b-458a-a78f-53f00d3c31b8" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='DEV: Home Page' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
-      <imageRef attrName="InformativeScreenshot" originalValue="007d6fa3c4b6426e95512ea534dbc472.png" xmlns="">0PLr3gDWT7EKJePYrjVWLUQ</imageRef>
-    </TargetAnchorable>
-    <x:String x:Key="ActivityType">None</x:String>
-  </ObjectRepositoryTargetData.Data>
-</ObjectRepositoryTargetData>

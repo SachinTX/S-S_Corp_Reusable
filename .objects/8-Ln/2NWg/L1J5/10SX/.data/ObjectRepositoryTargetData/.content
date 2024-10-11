@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-16"?>
-<ObjectRepositoryTargetData ContentHash="bAkEq8FwakSJmpxpLRm17g" Reference="2K6Nr8prXkCeYbAkIOHYHg/10SXoU6Z7U-GeZ5mlNzltA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
-  <ObjectRepositoryTargetData.Data>
-    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://devuicorp.ssactivewear.com/Home/login.aspx" CVScreenId="b02834ea-7dcb-4b35-956d-c3ae22d76f3f" CvElementArea="901, 635, 312, 50" CvType="InputBox" DesignTimeRectangle="901, 636, 311, 48" DesignTimeScaleFactor="1.25" ElementType="InputBox" FullSelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl id='zEmailTB' tableRow='1' tag='INPUT' class='login_TextBox' rowName='Email:' type='text' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl id='zEmailTB' aaname='' tag='INPUT' class='login_TextBox' rowName='Email:' type='text' /&gt;" Guid="4358ba7c-585f-42bc-8fee-af9d582932b6" ScopeSelectorArgument="&lt;html app='chrome.exe' title='DEV: Login' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive" WaitForReadyArgument="Complete">
-      <imageRef attrName="InformativeScreenshot" originalValue="826dba93e5fcb2d4cf7fc80648d24976.png" xmlns="">0pNA3LchckEGuWk8Wr_9Tdw</imageRef>
-    </TargetAnchorable>
-    <x:String x:Key="ActivityType">CheckState</x:String>
-  </ObjectRepositoryTargetData.Data>
-</ObjectRepositoryTargetData>

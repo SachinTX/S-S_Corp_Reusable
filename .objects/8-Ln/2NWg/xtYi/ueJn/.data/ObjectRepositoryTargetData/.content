@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-16"?>
-<ObjectRepositoryTargetData ContentHash="OF-_V6UERUGTLCwS62Uyug" Reference="2K6Nr8prXkCeYbAkIOHYHg/ueJnCGKQUUGIuR8q107s5w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
-  <ObjectRepositoryTargetData.Data>
-    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://devuicorp.ssactivewear.com/csr/item.aspx?id=7269" DesignTimeRectangle="1510, 697, 19, 18" DesignTimeScaleFactor="1.25" ElementType="InputBox" FullSelectorArgument="&lt;webctrl tableCol='4' tableRow='1' tag='TABLE' /&gt;&lt;webctrl tableRow='1' tag='SPAN' id='*RadioButton*' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl type='' tag='SPAN' id='*RadioButton*' class='dxeIRadioButton dxichSys dx-not-acc dxEditors_edtRadioButtonUnchecked' aaname='' /&gt;" Guid="ca21ac1f-feb4-4982-820b-ca12d14f32d3" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='DEV: CSR - Product Search' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive" WaitForReadyArgument="Complete">
-      <imageRef attrName="InformativeScreenshot" originalValue="1975763eb496f931c91bf60d05232e31.png" xmlns="">0WmEJtH-4L0OajvnWaM5prA</imageRef>
-    </TargetAnchorable>
-    <x:String x:Key="ActivityType">Click</x:String>
-  </ObjectRepositoryTargetData.Data>
-</ObjectRepositoryTargetData>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-16"?>
-<ObjectRepositoryTargetData ContentHash="I5VF5NFQR0KS8SDFI-lU3g" Reference="2K6Nr8prXkCeYbAkIOHYHg/1xDmaK6bRUCtTOsfpdye9w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
-  <ObjectRepositoryTargetData.Data>
-    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://devuicorp.ssactivewear.com/csr/Cart.aspx" DesignTimeRectangle="963, 442, 75, 33" DesignTimeScaleFactor="1.25" ElementType="Button" FullSelectorArgument="&lt;webctrl tag='BUTTON' aaname='Yes' visibleinnertext='Yes' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='BUTTON' aaname='Yes' visibleinnertext='Yes' type='' class='' check:text='Yes' /&gt;" Guid="8bd60e9f-747b-44d5-845e-b81fa5783af9" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Untitled Page' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
-      <imageRef attrName="InformativeScreenshot" originalValue="8f5763ba9f196b6cd818cd6dee55344f.png" xmlns="">096Iy1n3ioE-ub7SRrFkJRA</imageRef>
-    </TargetAnchorable>
-    <x:String x:Key="ActivityType">Click</x:String>
-  </ObjectRepositoryTargetData.Data>
-</ObjectRepositoryTargetData>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-16"?>
-<ObjectRepositoryTargetData ContentHash="195pgRRcT0-XmhKmeEc9Lg" Reference="2K6Nr8prXkCeYbAkIOHYHg/0DAT5V9jEUCNOYukyfZywA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
-  <ObjectRepositoryTargetData.Data>
-    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://devuicorp.ssactivewear.com/csr/item.aspx?id=7269" DesignTimeRectangle="896, 877, 57, 23" DesignTimeScaleFactor="1.25" ElementType="InputBox" FullSelectorArgument="&lt;webctrl id='10_1_2653112' tag='INPUT' type='text' /&gt;" FuzzySelectorArgument="&lt;webctrl id='10_1_2653112' tag='INPUT' type='text' class='' aaname='' /&gt;" Guid="5109a6f9-1e9c-4183-ba68-ecd64ed4a6c9" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='DEV: CSR - Product Search' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive" WaitForReadyArgument="Complete">
-      <imageRef attrName="InformativeScreenshot" originalValue="b61971349b06e99a722ac2573419e125.png" xmlns="">0kWOQ3PVgVUSYp7QJamHaTg</imageRef>
-    </TargetAnchorable>
-    <x:String x:Key="ActivityType">TypeInto</x:String>
-  </ObjectRepositoryTargetData.Data>
-</ObjectRepositoryTargetData>

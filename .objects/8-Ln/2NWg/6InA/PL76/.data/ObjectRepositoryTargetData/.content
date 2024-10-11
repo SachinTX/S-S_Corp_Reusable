@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-16"?>
-<ObjectRepositoryTargetData ContentHash="UNCYmWfGIEqInRoQcI0KqQ" Reference="2K6Nr8prXkCeYbAkIOHYHg/PL76MUiAM0u7mKlUCMi7Ow" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
-  <ObjectRepositoryTargetData.Data>
-    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://devuicorp.ssactivewear.com/csr/Cart.aspx" DesignTimeRectangle="444, 291, 1010, 110" DesignTimeScaleFactor="1.25" FullSelectorArgument="&lt;webctrl id='ctl00_L_ASPxPopupControl1_CIF-1' tag='IFRAME' /&gt;&lt;webctrl id='*Header*' tag='DIV' aaname='*Price Mismatch Found*' /&gt;" FuzzySelectorArgument="&lt;webctrl id='ctl00_L_ASPxPopupControl1_CIF-1' tag='IFRAME' /&gt;&lt;webctrl id='*Header*' tag='DIV' aaname='*Price Mismatch Found*' type='' class='' check:text='Price Mismatch Found for the below Skus.&amp;#xA;            If you need to reprice the cart, click the Reprice Cart button.&amp;#xA;            If the Quoted Price is correct, select the Price Change Reason and related Quote #, if applicable,&amp;#xA;            then click Continue Checkout.' /&gt;" Guid="c41d36a8-a45e-4685-90d7-58ec62916b48" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Untitled Page' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
-      <imageRef attrName="InformativeScreenshot" originalValue="fb61eb8d62181a16c6011e355a08a2c2.png" xmlns="">0lu3Nw3WUmk-lVLx_Mbb9zg</imageRef>
-    </TargetAnchorable>
-    <x:String x:Key="ActivityType">None</x:String>
-  </ObjectRepositoryTargetData.Data>
-</ObjectRepositoryTargetData>

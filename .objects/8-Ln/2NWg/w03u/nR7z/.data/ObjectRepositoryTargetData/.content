@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-16"?>
-<ObjectRepositoryTargetData ContentHash="KWX9GPxdnUmY0JdUeiScyA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
-  <ObjectRepositoryTargetData.Data>
-    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://devuicorp.ssactivewear.com/Warehouse/Metrics.aspx?SiteID=10" DesignTimeRectangle="313, 418, 300, 22" DesignTimeScaleFactor="1.5" ElementType="InputBox" FullSelectorArgument="&lt;webctrl tableRow='1' tag='INPUT' type='text' parentid='ctl00_L_L_N_zSiteCB_zSiteCB' parentname='aspnetForm' /&gt;" FuzzySelectorArgument="&lt;webctrl class='dxeEditArea dxeEditAreaSys' tag='INPUT' type='text' parentid='ctl00_L_L_N_zSiteCB_zSiteCB' parentname='aspnetForm' aaname='' /&gt;" Guid="e2d25e96-b8b7-4645-808c-6287a7f67e76" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='DEV: Warehouse - Metrics' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
-      <imageRef attrName="InformativeScreenshot" originalValue="d0453ea9d4b8d5b082ec1e7b66b80eef.png" xmlns="">0M42kufi980GA_xvR6mhYKA</imageRef>
-    </TargetAnchorable>
-    <x:String x:Key="ActivityType">None</x:String>
-  </ObjectRepositoryTargetData.Data>
-</ObjectRepositoryTargetData>
