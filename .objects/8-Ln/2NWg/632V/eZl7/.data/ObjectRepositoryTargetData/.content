@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="n-Uo_YPbTEWQiPRAfwTh7Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://devuicorp.ssactivewear.com/CSR/EditOrder.aspx?OrderHeaderID=80782272&amp;CSR=true" DesignTimeRectangle="622, 387, 120, 32" DesignTimeScaleFactor="1.25" ElementType="Text" FullSelectorArgument="&lt;webctrl class='settings' tag='TABLE' /&gt;&lt;webctrl class='h' tableRow='1' tag='TD' aaname='Sub Total:' innertext='Sub Total:' /&gt;" FuzzySelectorArgument="&lt;webctrl class='settings' tag='TABLE' /&gt;&lt;webctrl class='h' type='' tag='TD' aaname='Sub Total:' innertext='Sub Total:' check:text='Sub Total:' /&gt;" Guid="8149c7be-b340-432c-97ba-d393e00d4751" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='DEV: CSR -' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="a9ca171d5c5d3de9f4bddec1e6fe7eb1.png" xmlns="">0KakH4ZNHsk2SBxrbwBBjCg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetAttributeGeneric</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

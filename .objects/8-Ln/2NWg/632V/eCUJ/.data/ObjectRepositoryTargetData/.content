@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="TyvOxFq30kqNhilKFyIbGg" Reference="2K6Nr8prXkCeYbAkIOHYHg/eCUJGjmlHE-e20_pO5816Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://devuicorp.ssactivewear.com/CSR/Addresses.aspx?Alert=true&amp;next=%2fCSR%2fBrands.aspx&amp;CustomerID=2&amp;NoteTypeID=3" CVScreenId="ff93187d-11cf-4737-95a5-146aa9d8a553" CvTextArea="630, 506, 49, 15" CvTextArgument="Ship.To" CvType="Text" DesignTimeRectangle="624, 500, 60, 27" DesignTimeScaleFactor="1.2000000476837158" FullSelectorArgument="&lt;webctrl tag='TD' parentid='ctl00_L_L_N_ASPxGridView1_DXDataRow0' idx='1' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='TD' parentid='ctl00_L_L_N_ASPxGridView1_DXDataRow0' type='' class='dxgvCommandColumn dxgv' aaname='' check:text='Ship To&amp;#xA;&amp;lt;!--&amp;#xA;ASPx.AddDisabledItems(&amp;apos;ctl00_L_L_N_ASPxGridView1_DXCBtn2&amp;apos;,[[[&amp;apos;dxbDisabled&amp;apos;],[&amp;apos;&amp;apos;],[&amp;apos;&amp;apos;],[&amp;apos;&amp;apos;,&amp;apos;TC&amp;apos;]]]);&amp;#xA;&amp;#xA;//--&amp;gt;' /&gt;" Guid="d4c4b21b-0fad-4e85-8fe3-70e5d5aeb731" ScopeSelectorArgument="&lt;html app='chrome.exe' title='DEV: CSR - Addresses' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="52221ff0ec205fd0357ccf1174bd2838.png" xmlns="">52221ff0ec205fd0357ccf1174bd2838.png</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

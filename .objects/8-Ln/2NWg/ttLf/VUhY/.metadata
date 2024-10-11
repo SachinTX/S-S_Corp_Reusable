@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Icon_save",
+  "Type": "Element",
+  "TaxonomyType": "Icon",
+  "Id": "VUhYk9IoMECY1z0omThIuA",
+  "Reference": "2K6Nr8prXkCeYbAkIOHYHg/VUhYk9IoMECY1z0omThIuA",
+  "ParentRef": "2K6Nr8prXkCeYbAkIOHYHg/ttLfZBAcdUS3z0YqiTXJOQ",
+  "Created": "2024-10-04T09:47:35.9306971Z",
+  "Updated": "2024-10-04T09:48:30.2260525Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.10.3.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.10.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

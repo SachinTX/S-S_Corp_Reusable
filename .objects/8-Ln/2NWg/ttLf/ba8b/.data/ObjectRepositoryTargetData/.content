@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="fgblylc84kOM3NROiCQQNw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://devuicorp.ssactivewear.com/CSR/OrderHistory.aspx" DesignTimeRectangle="1243, 370, 217, 18" DesignTimeScaleFactor="1.25" ElementType="InputBox" FullSelectorArgument="&lt;webctrl tableRow='1' tag='INPUT' id='*SearchTB_I*' type='text' /&gt;" FuzzySelectorArgument="&lt;webctrl class='dxeEditArea dxeEditAreaSys dxh0' tag='INPUT' id='*SearchTB_I*' type='text' aaname='' /&gt;" Guid="879842c7-dd37-4cef-922b-b7e389d43a06" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='DEV: CSR - Order History' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="6632940a8bae61cb3e6cd4c1ad9230cf.png" xmlns="">0ku5J-eMx906zNI3-RElbOQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

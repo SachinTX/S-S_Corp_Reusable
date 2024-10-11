@@ -1,0 +1,17 @@
+﻿{
+  "Name": "Btn_Yes",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "c4niq8YHakWQBBHPjk5C8Q",
+  "Reference": "2K6Nr8prXkCeYbAkIOHYHg/c4niq8YHakWQBBHPjk5C8Q",
+  "ParentRef": "2K6Nr8prXkCeYbAkIOHYHg/V72Nrm8Af0uwC8aTyXZPXQ",
+  "Created": "2024-10-04T16:13:39.5450905Z",
+  "Updated": "2024-10-09T15:39:58.4101645Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.10.3.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.10.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

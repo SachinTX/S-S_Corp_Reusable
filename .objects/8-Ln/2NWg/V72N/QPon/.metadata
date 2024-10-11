@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Get Text '220 Remington'",
+  "Type": "Element",
+  "Id": "QPonR84dVEC1q8Ly4dqp7A",
+  "Reference": "2K6Nr8prXkCeYbAkIOHYHg/QPonR84dVEC1q8Ly4dqp7A",
+  "ParentRef": "2K6Nr8prXkCeYbAkIOHYHg/V72Nrm8Af0uwC8aTyXZPXQ",
+  "Created": "2024-10-04T16:03:46.9626065Z",
+  "Updated": "2024-10-04T16:03:46.9626065Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.10.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

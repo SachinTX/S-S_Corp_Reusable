@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="u4-f2DSsO0ieZAqEHnwYew" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://devuicorp.ssactivewear.com/CSR/ChangeAccount.aspx" CVScreenId="8d18aeea-0a4d-4619-93ed-b30355aa278d" CvElementArea="469, 327, 209, 30" CvType="InputBox" DesignTimeRectangle="473, 330, 202, 23" DesignTimeScaleFactor="1.2000000476837158" FullSelectorArgument="&lt;webctrl tableCol='2' tableRow='1' tag='TABLE' /&gt;&lt;webctrl tag='TD' parentid='ctl00_L_L_N_zSearchTB' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl tag='TD' parentid='ctl00_L_L_N_zSearchTB' type='' class='dxic' aaname='' /&gt;" Guid="69c7d813-61ed-4d58-b161-c1e6f262ad8e" ScopeSelectorArgument="&lt;html app='chrome.exe' title='DEV: CSR - Change Account' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="1">
+          <Target CVScreenId="8b1a77a8-662b-48b5-8700-a1e8b547d25e" CvTextArea="399, 332, 60, 18" CvTextArgument="Filter:" CvType="Text" DesignTimeRectangle="401, 329, 59, 25" ElementType="Text" FullSelectorArgument="&lt;webctrl class='switch' tag='TABLE' /&gt;&lt;webctrl tableRow='1' tag='H2' /&gt;" FuzzySelectorArgument="&lt;webctrl class='switch' tag='TABLE' /&gt;&lt;webctrl type='' tag='H2' class='' aaname='Filter:' check:innerText='Filter:' /&gt;" Guid="671394f8-e10e-4237-bb4c-5df9ac934663" SearchSteps="Selector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="dbb1479e4f14b5234decede05de201d8.png" xmlns="">dbb1479e4f14b5234decede05de201d8.png</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="6IMfqNGmFkaQH_uZLscTUQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://devuicorp.ssactivewear.com/csr/OrderConfirmation.aspx?OrderGUID=bf2abb22-adb9-480e-891b-e6941aa2d2ac" DesignTimeRectangle="1067, 372, 432, 136" DesignTimeScaleFactor="1.2000000476837158" FullSelectorArgument="&lt;webctrl class='dconfirmation' parentid='invoice' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl class='dconfirmation' parentid='invoice' tag='DIV' type='' /&gt;" Guid="d9ad0577-9ccc-428d-9d8f-8b455676cd15" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Untitled Page' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="f2edeaf5b41ba0ebfa86b2e0a361816c.png" xmlns="">f2edeaf5b41ba0ebfa86b2e0a361816c.png</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

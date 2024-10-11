@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="wQWe1KsaskmgulEk1oHQQA" Reference="2K6Nr8prXkCeYbAkIOHYHg/n9Qw3oMrAUO25QcleN9UMw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://devuicorp.ssactivewear.com/Customers/editinformation.aspx?CustomerID=228520" DesignTimeRectangle="404, 207, 120, 39" DesignTimeScaleFactor="1.25" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='Information' tag='A' visibleinnertext='Information' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Information' tag='A' visibleinnertext='Information' type='' class='' check:text='Information' /&gt;" Guid="23f8bab1-c0c6-4f84-a08a-ba86b38dda81" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='DEV: Customers - Information' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="7bdf3ab8c721aeb6132d3fb3511e26c1.png" xmlns="">0Ro1GeONwVk2B_yZBzz37yg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

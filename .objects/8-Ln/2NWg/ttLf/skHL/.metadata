@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Lbl_totalPriceAmountLines",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "skHLU7bIBE-MUUX83Vnmuw",
+  "Reference": "2K6Nr8prXkCeYbAkIOHYHg/skHLU7bIBE-MUUX83Vnmuw",
+  "ParentRef": "2K6Nr8prXkCeYbAkIOHYHg/ttLfZBAcdUS3z0YqiTXJOQ",
+  "Created": "2024-10-07T11:07:27.5350385Z",
+  "Updated": "2024-10-07T11:11:11.3558851Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.10.3.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.10.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

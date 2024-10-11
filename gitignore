@@ -1,0 +1,6 @@
+.local
+!.local/**/*.dll
+.settings/Debug
+.settings/Design
+.settings/Release
+

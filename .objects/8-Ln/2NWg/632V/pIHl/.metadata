@@ -1,0 +1,17 @@
+﻿{
+  "Name": "Input_timeSaver",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "pIHlxSki2Ui9wztK_VZGqA",
+  "Reference": "2K6Nr8prXkCeYbAkIOHYHg/pIHlxSki2Ui9wztK_VZGqA",
+  "ParentRef": "2K6Nr8prXkCeYbAkIOHYHg/632V0xb2NkqYy0yagjcDhQ",
+  "Created": "2024-10-04T16:10:57.869188Z",
+  "Updated": "2024-10-09T15:38:22.2258887Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.10.3.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.10.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

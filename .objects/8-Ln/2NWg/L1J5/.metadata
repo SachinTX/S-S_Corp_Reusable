@@ -1,0 +1,15 @@
+﻿{
+  "Name": "Corp_UserAccess",
+  "Type": "Screen",
+  "Id": "L1J5V1XM7ES3ITarat3Z7w",
+  "Reference": "2K6Nr8prXkCeYbAkIOHYHg/L1J5V1XM7ES3ITarat3Z7w",
+  "ParentRef": "2K6Nr8prXkCeYbAkIOHYHg/2NWgnAZpYkWem_FMV5zAQQ",
+  "Created": "2024-09-24T13:40:13.0695366Z",
+  "Updated": "2024-09-24T13:40:13.0695366Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.10.3.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.10.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

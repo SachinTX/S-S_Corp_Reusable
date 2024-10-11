@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="qS_CnG9GMkussBCibO2Gdw" Reference="2K6Nr8prXkCeYbAkIOHYHg/IW78Sg6WsEam7M7gRFcVxQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://devuicorp.ssactivewear.com/CSR/ChangeAccount.aspx" CVScreenId="18b3d9b4-c7a0-4d35-96f1-5f031e61e490" CvTextArea="408, 410, 45, 16" CvTextArgument="Log.In" CvType="Text" DesignTimeRectangle="411, 408, 41, 17" DesignTimeScaleFactor="1.2000000476837158" ElementType="Text" FullSelectorArgument="&lt;webctrl tag='SPAN' parentid='ctl00_L_L_N_ASPxGridView1_DXCBtn0' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='SPAN' parentid='ctl00_L_L_N_ASPxGridView1_DXCBtn0' type='' class='' aaname='Log In' check:text='Log In' /&gt;" Guid="873fb147-bd17-4673-8b7a-0777df584ec7" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Untitled Page' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="63594d13a5513685d13ecda041c183b9.png" xmlns="">63594d13a5513685d13ecda041c183b9.png</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

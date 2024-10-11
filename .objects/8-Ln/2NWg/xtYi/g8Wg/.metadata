@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Check App State 'Check Out'",
+  "Type": "Element",
+  "Id": "g8Wg9EqZpEa7TQcJGdATVw",
+  "Reference": "2K6Nr8prXkCeYbAkIOHYHg/g8Wg9EqZpEa7TQcJGdATVw",
+  "ParentRef": "2K6Nr8prXkCeYbAkIOHYHg/xtYikiybZkG-hKaqtAif6w",
+  "Created": "2024-10-09T15:31:53.9363864Z",
+  "Updated": "2024-10-09T15:31:53.9363864Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.10.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

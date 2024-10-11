@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="iavNP7Y7rEGFo89On_IMZw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://devuicorp.ssactivewear.com/CSR/ChangeAccount.aspx" CVScreenId="b5677260-78e0-4b3f-826b-eb4674f25859" CvElementArea="469, 327, 208, 30" CvType="InputBox" DesignTimeRectangle="476, 334, 196, 17" DesignTimeScaleFactor="1.2000000476837158" ElementType="InputBox" FullSelectorArgument="&lt;webctrl tag='INPUT' id='ctl00_L_L_N_zSearchTB_I' parentid='ctl00_L_L_N_zSearchTB' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='INPUT' id='ctl00_L_L_N_zSearchTB_I' parentid='ctl00_L_L_N_zSearchTB' type='text' class='dxeEditArea dxeEditAreaSys dxh0' aaname='' /&gt;" Guid="aae4ab0a-8f72-412d-987f-32dec198278e" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Untitled Page' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="ef7cf09d02b421018e34ffa36936b6a4.png" xmlns="">ef7cf09d02b421018e34ffa36936b6a4.png</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

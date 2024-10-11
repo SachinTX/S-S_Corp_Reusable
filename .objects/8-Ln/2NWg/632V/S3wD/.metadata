@@ -1,0 +1,17 @@
+﻿{
+  "Name": "Rdo_SelectAllOrderQuantity",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "S3wDub4JCkam2YdSSEABRw",
+  "Reference": "2K6Nr8prXkCeYbAkIOHYHg/S3wDub4JCkam2YdSSEABRw",
+  "ParentRef": "2K6Nr8prXkCeYbAkIOHYHg/632V0xb2NkqYy0yagjcDhQ",
+  "Created": "2024-10-04T15:45:42.8357468Z",
+  "Updated": "2024-10-09T15:25:34.5846337Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.10.3.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.10.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Input_ContactName",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "TbUHBstw70y_MGJfXXEjPA",
+  "Reference": "2K6Nr8prXkCeYbAkIOHYHg/TbUHBstw70y_MGJfXXEjPA",
+  "ParentRef": "2K6Nr8prXkCeYbAkIOHYHg/ttLfZBAcdUS3z0YqiTXJOQ",
+  "Created": "2024-10-04T09:27:24.666805Z",
+  "Updated": "2024-10-04T09:27:24.666805Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.10.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

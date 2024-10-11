@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Lbl_Information",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "n9Qw3oMrAUO25QcleN9UMw",
+  "Reference": "2K6Nr8prXkCeYbAkIOHYHg/n9Qw3oMrAUO25QcleN9UMw",
+  "ParentRef": "2K6Nr8prXkCeYbAkIOHYHg/ttLfZBAcdUS3z0YqiTXJOQ",
+  "Created": "2024-10-04T09:33:00.0491694Z",
+  "Updated": "2024-10-04T09:35:55.1424835Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.10.3.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.10.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

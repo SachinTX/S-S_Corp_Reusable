@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Btn_selectFastest",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "cqkCBdHy9UGkEvsI_Y3XLg",
+  "Reference": "2K6Nr8prXkCeYbAkIOHYHg/cqkCBdHy9UGkEvsI_Y3XLg",
+  "ParentRef": "2K6Nr8prXkCeYbAkIOHYHg/xtYikiybZkG-hKaqtAif6w",
+  "Created": "2024-10-09T15:32:08.9994641Z",
+  "Updated": "2024-10-09T15:40:45.9867174Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.10.3.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.10.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

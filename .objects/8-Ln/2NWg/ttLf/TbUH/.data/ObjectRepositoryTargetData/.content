@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="RDFMhxYSKkSlHWX6MnrnyA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://devuicorp.ssactivewear.com/Customers/editinformation.aspx?CustomerID=228520" DesignTimeRectangle="653, 489, 266, 18" DesignTimeScaleFactor="1.25" ElementType="InputBox" FullSelectorArgument="&lt;webctrl idx='3' tag='TABLE' /&gt;&lt;webctrl tableRow='18' tag='B' /&gt;&lt;nav up='2' /&gt;&lt;webctrl tableCol='1' tableRow='1' tag='TABLE' idx='1' /&gt;&lt;webctrl tableRow='1' tag='INPUT' type='text' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl type='text' tag='INPUT' class='dxeEditArea dxeEditAreaSys dxh0' aaname='' /&gt;" Guid="da6e9958-eaba-4f9b-a875-67f6b19017d0" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='DEV: Customers - Information' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="aed5f946437587b6c05570b13a40bfe9.png" xmlns="">0wbTSPrrQ_UWxT5Tg82h3Ew</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

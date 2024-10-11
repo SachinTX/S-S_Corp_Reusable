@@ -1,0 +1,17 @@
+﻿{
+  "Name": "Btn_RePriceToPriceLevel",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "08e3MK0fREm4plGeP6FN0g",
+  "Reference": "2K6Nr8prXkCeYbAkIOHYHg/08e3MK0fREm4plGeP6FN0g",
+  "ParentRef": "2K6Nr8prXkCeYbAkIOHYHg/6InAkPRsg0imLpcBsNsr8A",
+  "Created": "2024-10-04T16:21:19.7890831Z",
+  "Updated": "2024-10-09T15:35:36.8211502Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.10.3.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.10.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

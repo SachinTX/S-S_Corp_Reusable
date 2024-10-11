@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="6Ro8sAlkT02B3XMQS97fEg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://devuicorp.ssactivewear.com/CSR/Addresses.aspx?Alert=true&amp;next=%2fCSR%2fBrands.aspx&amp;CustomerID=2&amp;NoteTypeID=3" CVScreenId="62e227f5-9709-408a-9302-c8bc57198bdc" CvTextArea="881, 413, 157, 22" CvTextArgument="Shipping Addresses" CvType="Text" DesignTimeRectangle="624, 407, 673, 32" DesignTimeScaleFactor="1.2000000476837158" ElementType="Text" FullSelectorArgument="&lt;webctrl tag='TD' parentid='ctl00_L_L_N_ASPxGridView1_DXTitle' colName='Shipping Addresses' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='TD' parentid='ctl00_L_L_N_ASPxGridView1_DXTitle' colName='Shipping Addresses' type='' class='dxgvTitlePanel' aaname='Shipping Addresses' check:text='Shipping Addresses' /&gt;" Guid="6b58bc47-3a90-46da-9a4d-fdfa5e7bd7ca" ScopeSelectorArgument="&lt;html app='chrome.exe' title='DEV: CSR - Addresses' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="2b24480c55695bb770a04fb096cd3e60.png" xmlns="">2b24480c55695bb770a04fb096cd3e60.png</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

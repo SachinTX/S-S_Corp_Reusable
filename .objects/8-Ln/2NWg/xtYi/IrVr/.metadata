@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Get Text '$19.41'",
+  "Type": "Element",
+  "Id": "IrVr_HSFQUaprJ765_nMsQ",
+  "Reference": "2K6Nr8prXkCeYbAkIOHYHg/IrVr_HSFQUaprJ765_nMsQ",
+  "ParentRef": "2K6Nr8prXkCeYbAkIOHYHg/xtYikiybZkG-hKaqtAif6w",
+  "Created": "2024-10-09T15:32:15.4304086Z",
+  "Updated": "2024-10-09T15:32:15.4304086Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.10.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

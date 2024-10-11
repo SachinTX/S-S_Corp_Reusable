@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="6YirLG3KuUex0TVlyTkjgw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://devuicorp.ssactivewear.com/csr/Checkout.aspx" DesignTimeRectangle="622, 322, 913, 528" DesignTimeScaleFactor="1.2000000476837158" FullSelectorArgument="&lt;webctrl class='right' parentid='aspnetForm' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl class='right' parentid='aspnetForm' tag='DIV' type='' aaname='                                                                                    ' check:innerText='Check Out - Shipment Optimization&amp;#xD;&amp;#xA;It looks like there is a better way to ship your order. Please' /&gt;" Guid="b70d5de0-90a9-4035-b123-9e323509bfde" ScopeSelectorArgument="&lt;html app='chrome.exe' title='DEV: CSR - Checkout' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="b73f3d34554e4710aa1a181a5b329bf5.png" xmlns="">b73f3d34554e4710aa1a181a5b329bf5.png</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

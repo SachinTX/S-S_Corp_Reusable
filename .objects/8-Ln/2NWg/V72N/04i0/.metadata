@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Get Text '$33.56'",
+  "Type": "Element",
+  "Id": "04i0uJA4XkG3dxs_WreJGw",
+  "Reference": "2K6Nr8prXkCeYbAkIOHYHg/04i0uJA4XkG3dxs_WreJGw",
+  "ParentRef": "2K6Nr8prXkCeYbAkIOHYHg/V72Nrm8Af0uwC8aTyXZPXQ",
+  "Created": "2024-10-04T16:04:23.3115299Z",
+  "Updated": "2024-10-04T16:04:23.3115299Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.10.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

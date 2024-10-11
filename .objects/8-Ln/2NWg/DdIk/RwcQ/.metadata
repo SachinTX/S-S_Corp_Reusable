@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Icon_ClickCustomer",
+  "Type": "Element",
+  "TaxonomyType": "Icon",
+  "Id": "RwcQq-2vvUSQMTp6gSD4gg",
+  "Reference": "2K6Nr8prXkCeYbAkIOHYHg/RwcQq-2vvUSQMTp6gSD4gg",
+  "ParentRef": "2K6Nr8prXkCeYbAkIOHYHg/DdIkCBZ6zEm4Y9_xlgXHJg",
+  "Created": "2024-10-04T08:46:22.9444747Z",
+  "Updated": "2024-10-04T08:47:18.2277256Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.10.3.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.10.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Btn_searchOrderHistory",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "wQEHR_Kn6E-E6POLh1MmsQ",
+  "Reference": "2K6Nr8prXkCeYbAkIOHYHg/wQEHR_Kn6E-E6POLh1MmsQ",
+  "ParentRef": "2K6Nr8prXkCeYbAkIOHYHg/ttLfZBAcdUS3z0YqiTXJOQ",
+  "Created": "2024-10-07T09:44:17.1896922Z",
+  "Updated": "2024-10-07T09:45:02.0287686Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.10.3.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.10.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

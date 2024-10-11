@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Get Text 'Order Confirmation'",
+  "Type": "Element",
+  "Id": "ZdqaH8zPgUKIWN6iAO3d0w",
+  "Reference": "2K6Nr8prXkCeYbAkIOHYHg/ZdqaH8zPgUKIWN6iAO3d0w",
+  "ParentRef": "2K6Nr8prXkCeYbAkIOHYHg/V72Nrm8Af0uwC8aTyXZPXQ",
+  "Created": "2024-10-04T16:13:45.006187Z",
+  "Updated": "2024-10-04T16:13:45.006187Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.10.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

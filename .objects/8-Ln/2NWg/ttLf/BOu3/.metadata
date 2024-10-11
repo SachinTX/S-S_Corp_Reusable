@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Link_orderNumberOrderHistory",
+  "Type": "Element",
+  "TaxonomyType": "Link",
+  "Id": "BOu3HWKW6E62-KA2YXcRqg",
+  "Reference": "2K6Nr8prXkCeYbAkIOHYHg/BOu3HWKW6E62-KA2YXcRqg",
+  "ParentRef": "2K6Nr8prXkCeYbAkIOHYHg/ttLfZBAcdUS3z0YqiTXJOQ",
+  "Created": "2024-10-07T09:46:55.8809038Z",
+  "Updated": "2024-10-07T09:58:17.2213244Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.10.3.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.10.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

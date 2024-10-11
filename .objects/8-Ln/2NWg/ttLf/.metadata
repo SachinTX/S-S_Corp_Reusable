@@ -1,0 +1,15 @@
+﻿{
+  "Name": "Customers",
+  "Type": "Screen",
+  "Id": "ttLfZBAcdUS3z0YqiTXJOQ",
+  "Reference": "2K6Nr8prXkCeYbAkIOHYHg/ttLfZBAcdUS3z0YqiTXJOQ",
+  "ParentRef": "2K6Nr8prXkCeYbAkIOHYHg/2NWgnAZpYkWem_FMV5zAQQ",
+  "Created": "2024-10-04T09:23:20.8623354Z",
+  "Updated": "2024-10-04T09:23:27.6490248Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.10.3.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.10.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

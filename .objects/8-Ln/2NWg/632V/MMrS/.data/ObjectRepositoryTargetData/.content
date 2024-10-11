@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="O6ssGR1SsE2N6TBn4bxSiw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://devuicorp.ssactivewear.com/CSR/ChangeAccount.aspx" DesignTimeRectangle="1243, 370, 217, 18" DesignTimeScaleFactor="1.25" ElementType="InputBox" FullSelectorArgument="&lt;webctrl tableRow='1' tag='TABLE' /&gt;&lt;webctrl tableRow='1' tag='INPUT' type='text' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl class='dxeEditArea dxeEditAreaSys dxh0' tag='INPUT' type='text' aaname='' /&gt;" Guid="fb7a692b-f4fe-4b9c-b37e-8b6b6a18adbd" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='DEV: CSR - Change Account' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="6632940a8bae61cb3e6cd4c1ad9230cf.png" xmlns="">0K8BvG4RKNEKymd9n_BZZ0g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

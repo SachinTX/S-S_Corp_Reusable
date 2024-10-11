@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="M82XvHhW0k2Bgx_4qlOZvA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://devuicorp.ssactivewear.com/csr/Checkout.aspx?optimizer=fastest" CVScreenId="dab05707-119a-44e1-8eb1-1bda56cc2bf7" CvTextArea="1469, 705, 54, 18" CvType="AnyWordGroup" DesignTimeRectangle="1338, 695, 197, 35" DesignTimeScaleFactor="1.2000000476837158" ElementType="Text" FullSelectorArgument="&lt;webctrl parentclass='dxpnlControl' parentid='ctl00_L_L_N_zInvoicePanel_zInvoice' /&gt;&lt;webctrl tag='TD' parentid='ctl00_L_L_N_zInvoicePanel_zInvoice' rowName='Shipping &amp;amp; Handling: ' idx='3' /&gt;" FuzzySelectorArgument="&lt;webctrl parentclass='dxpnlControl' parentid='ctl00_L_L_N_zInvoicePanel_zInvoice' /&gt;&lt;webctrl tag='TD' parentid='ctl00_L_L_N_zInvoicePanel_zInvoice' rowName='Shipping &amp;amp; Handling: ' type='' class='r' /&gt;" Guid="6e90c699-5a01-41bb-9833-0b56d24b3b2c" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='DEV: CSR - Checkout' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="d99aa59df80ba0cfae040a5973bda376.png" xmlns="">d99aa59df80ba0cfae040a5973bda376.png</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

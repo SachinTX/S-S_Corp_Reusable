@@ -1,0 +1,16 @@
+﻿{
+  "Name": "CSRCheckout",
+  "Type": "Screen",
+  "Id": "V72Nrm8Af0uwC8aTyXZPXQ",
+  "Reference": "2K6Nr8prXkCeYbAkIOHYHg/V72Nrm8Af0uwC8aTyXZPXQ",
+  "ParentRef": "2K6Nr8prXkCeYbAkIOHYHg/2NWgnAZpYkWem_FMV5zAQQ",
+  "Created": "2024-10-04T16:03:46.8089899Z",
+  "Updated": "2024-10-09T15:39:08.1916275Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.10.3.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.10.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="LtbDpFSxbk2UNnkxZGsynA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://devuicorp.ssactivewear.com/csr/Cart.aspx" DesignTimeRectangle="1492, 179, 73, 17" DesignTimeScaleFactor="1.25" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='SIGN OUT' tag='A' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='SIGN OUT' tag='A' type='' class='' check:innerText='SIGN OUT' /&gt;" Guid="e265334a-093f-4075-a113-ea4e113050c7" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='DEV: CSR - Cart' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="d857084a963e32be727be844580b61f6.png" xmlns="">0Ib1431QNOEOFkJn3S4_3YA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="HVOvbse2VUGufFphsPox9w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://devuicorp.ssactivewear.com/CSR/ChangeAccount.aspx" CVScreenId="475ba172-d337-4ccf-b667-d671d700d9f8" CvElementArea="469, 327, 208, 30" CvType="InputBox" DesignTimeRectangle="476, 334, 196, 17" DesignTimeScaleFactor="1.2000000476837158" ElementType="InputBox" FullSelectorArgument="&lt;webctrl tableCol='2' tableRow='1' tag='TABLE' /&gt;&lt;webctrl tag='INPUT' id='ctl00_L_L_N_zSearchTB_I' type='text' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl tag='INPUT' id='ctl00_L_L_N_zSearchTB_I' type='text' class='dxeEditArea dxeEditAreaSys dxh0' aaname='' /&gt;" Guid="ed32645d-a8d7-45e2-a99c-6802c75839bd" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='DEV: CSR - Change Account' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="1">
+          <Target CVScreenId="475ba172-d337-4ccf-b667-d671d700d9f8" CvTextArea="399, 332, 60, 18" CvTextArgument="Filter:" CvType="Text" DesignTimeRectangle="401, 329, 59, 25" ElementType="Text" FullSelectorArgument="&lt;webctrl class='switch' tag='TABLE' /&gt;&lt;webctrl tableRow='1' tag='H2' /&gt;" FuzzySelectorArgument="&lt;webctrl class='switch' tag='TABLE' /&gt;&lt;webctrl type='' tag='H2' class='' aaname='Filter:' check:innerText='Filter:' /&gt;" Guid="72a7ec85-97a8-477e-9d22-ebf78274a0c5" SearchSteps="Selector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="7bd0e75b9ee1834ba440a6a701721e20.png" xmlns="">7bd0e75b9ee1834ba440a6a701721e20.png</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

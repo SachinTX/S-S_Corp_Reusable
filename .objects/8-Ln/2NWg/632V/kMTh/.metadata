@@ -1,0 +1,17 @@
+﻿{
+  "Name": "Lbl_ShippingAddresses",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "kMThUv1QrEiMUsrP4FNA0A",
+  "Reference": "2K6Nr8prXkCeYbAkIOHYHg/kMThUv1QrEiMUsrP4FNA0A",
+  "ParentRef": "2K6Nr8prXkCeYbAkIOHYHg/632V0xb2NkqYy0yagjcDhQ",
+  "Created": "2024-10-04T16:25:11.3363691Z",
+  "Updated": "2024-10-09T15:37:08.9277605Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.10.3.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.10.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

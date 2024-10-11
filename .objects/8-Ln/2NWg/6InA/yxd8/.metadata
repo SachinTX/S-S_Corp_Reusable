@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Btn_ClearCart",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "yxd8r1OYPEi2YWzmia9eHA",
+  "Reference": "2K6Nr8prXkCeYbAkIOHYHg/yxd8r1OYPEi2YWzmia9eHA",
+  "ParentRef": "2K6Nr8prXkCeYbAkIOHYHg/6InAkPRsg0imLpcBsNsr8A",
+  "Created": "2024-09-24T15:29:14.6674599Z",
+  "Updated": "2024-09-25T08:13:37.2785Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.10.3.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.10.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

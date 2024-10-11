@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="jB6MHRDwl0uuGg2LQ3n0AQ" Reference="2K6Nr8prXkCeYbAkIOHYHg/c4niq8YHakWQBBHPjk5C8Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://devuicorp.ssactivewear.com/csr/Checkout.aspx?optimizer=fastest" CVScreenId="d5de3827-0ab8-4cdf-bee5-0c57451be73c" CvElementArea="947, 634, 147, 34" CvTextArea="1002, 642, 34, 16" CvTextArgument="YES" CvType="Button" DesignTimeRectangle="949, 636, 144, 30" DesignTimeScaleFactor="1.2000000476837158" ElementType="Button" FullSelectorArgument="&lt;webctrl type='submit' id='ctl00_L_L_N_ASPxPopupControl1_zCompleteBTNPre' parentid='ctl00_L_L_N_ASPxPopupControl1_PWC-1' /&gt;" FuzzySelectorArgument="&lt;webctrl type='submit' id='ctl00_L_L_N_ASPxPopupControl1_zCompleteBTNPre' parentid='ctl00_L_L_N_ASPxPopupControl1_PWC-1' tag='INPUT' class='lbtn lbtn-accent' aaname='YES' check:text='YES' /&gt;" Guid="c625ea64-97ce-476e-be54-653d9ae11565" ScopeSelectorArgument="&lt;html app='chrome.exe' title='DEV: CSR - Checkout' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="6095fec154e1a131b5b1be282f3bd871.png" xmlns="">6095fec154e1a131b5b1be282f3bd871.png</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

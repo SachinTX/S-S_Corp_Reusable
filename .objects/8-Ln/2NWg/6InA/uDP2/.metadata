@@ -1,0 +1,17 @@
+﻿{
+  "Name": "Txt_PriceMismatch",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "uDP2Q6M2AUyDIIo-GsGiaQ",
+  "Reference": "2K6Nr8prXkCeYbAkIOHYHg/uDP2Q6M2AUyDIIo-GsGiaQ",
+  "ParentRef": "2K6Nr8prXkCeYbAkIOHYHg/6InAkPRsg0imLpcBsNsr8A",
+  "Created": "2024-10-04T16:20:28.5031168Z",
+  "Updated": "2024-10-09T15:35:45.7612444Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.10.3.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.10.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

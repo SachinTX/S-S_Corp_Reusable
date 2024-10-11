@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="xAq-56nYv0SVvIb488fFnw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://devuicorp.ssactivewear.com/Home/Default.aspx" CVScreenId="82bed154-6456-40ae-bce8-16e1b03f91e5" CvElementArea="1120, 267, 159, 161" CvType="Icon" DesignTimeRectangle="1125, 274, 150, 150" DesignTimeScaleFactor="1.25" ElementType="Icon" FullSelectorArgument="&lt;webctrl aaname='Customers' tag='IMG' parentclass='icons' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Customers' tag='IMG' parentclass='icons' type='' class='' /&gt;" Guid="fc3de5df-045d-4bf5-b06a-43802513118e" ScopeSelectorArgument="&lt;html app='chrome.exe' title='DEV: Home Page' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="ed317e880e884f7bd77e232ebcb1e80a.png" xmlns="">0hIElmhvgY0C4Eka0wdWeRQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Type Into 'TD'",
+  "Type": "Element",
+  "Id": "KOW7d-XjJkqb-j_rZwKxwg",
+  "Reference": "2K6Nr8prXkCeYbAkIOHYHg/KOW7d-XjJkqb-j_rZwKxwg",
+  "ParentRef": "2K6Nr8prXkCeYbAkIOHYHg/632V0xb2NkqYy0yagjcDhQ",
+  "Created": "2024-10-04T16:25:17.6659628Z",
+  "Updated": "2024-10-04T16:25:17.6659628Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.10.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

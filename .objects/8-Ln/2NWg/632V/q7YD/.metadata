@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Check App State 'Filter'",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "q7YDhV8Bx0q2b5EzX69Scw",
+  "Reference": "2K6Nr8prXkCeYbAkIOHYHg/q7YDhV8Bx0q2b5EzX69Scw",
+  "ParentRef": "2K6Nr8prXkCeYbAkIOHYHg/632V0xb2NkqYy0yagjcDhQ",
+  "Created": "2024-10-04T16:10:45.6091876Z",
+  "Updated": "2024-10-04T16:10:45.6091876Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.10.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

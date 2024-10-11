@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="orRespsn1kuIXLi51cN0wA" Reference="2K6Nr8prXkCeYbAkIOHYHg/kQCmSMwJAE-GkZsVbassWw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://devuicorp.ssactivewear.com/csr/Checkout.aspx" CVScreenId="9d114d42-5d9b-4767-9258-9b4efa893bbe" CvTextArea="966, 621, 154, 15" CvTextArgument="Select Fastest - $14.15" CvType="Text" DesignTimeRectangle="872, 656, 350, 36" DesignTimeScaleFactor="1.25" ElementType="Text" FullSelectorArgument="&lt;webctrl parentid='zFOItem_' tag='A' parentclass='FOItem' idx='2' /&gt;" FuzzySelectorArgument="&lt;webctrl parentid='zFOItem_' tag='A' parentclass='FOItem' type='' class='button button-tertiary' aaname='Select Fastest - $14.15' check:text='Select Fastest - $14.15' /&gt;" Guid="dc82e5f4-37dc-4eb1-879e-26cd1fea6a4b" ScopeSelectorArgument="&lt;html app='chrome.exe' title='DEV: CSR - Checkout' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="ea2dcf416a133d1e4598e49b14f4c5b4.png" xmlns="">009ALTnIRkk6gkondHzc7bg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

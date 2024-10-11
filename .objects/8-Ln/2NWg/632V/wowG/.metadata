@@ -1,0 +1,17 @@
+﻿{
+  "Name": "Lbl_Test1",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "wowGqPn4YUGz5pNN7gNKUg",
+  "Reference": "2K6Nr8prXkCeYbAkIOHYHg/wowGqPn4YUGz5pNN7gNKUg",
+  "ParentRef": "2K6Nr8prXkCeYbAkIOHYHg/632V0xb2NkqYy0yagjcDhQ",
+  "Created": "2024-10-04T16:25:25.3721764Z",
+  "Updated": "2024-10-09T15:38:03.7645379Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.10.3.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.10.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

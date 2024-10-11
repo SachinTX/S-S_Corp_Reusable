@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="0WKLlOOy1kCR6H7YtAqErQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://devuicorp.ssactivewear.com/csr/Cart.aspx" CVScreenId="7a5ddf67-2c14-4443-8800-08cc27aada80" CvTextArea="1449, 539, 49, 16" CvType="AnyWordGroup" DesignTimeRectangle="1462, 575, 59, 18" DesignTimeScaleFactor="1.25" FullSelectorArgument="&lt;webctrl parentid='zCart' parentname='aspnetForm' idx='1' /&gt;&lt;webctrl parentid='cartTotalAmount' tag='B' /&gt;" FuzzySelectorArgument="&lt;webctrl parentid='zCart' parentname='aspnetForm' /&gt;&lt;webctrl parentid='cartTotalAmount' tag='B' type='' class='' /&gt;" Guid="715d5ad0-78e3-49b0-af52-5950ce7aa3cb" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='DEV: CSR - Cart' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="6706957b5e0e8fb1828aaea85e5a0566.png" xmlns="">02twVaSjuYUWcXLKKYHZxJw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

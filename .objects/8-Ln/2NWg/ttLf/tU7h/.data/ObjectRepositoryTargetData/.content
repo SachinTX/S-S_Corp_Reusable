@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="kTtg0DGcAkKLx99Bv0mtRw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://devuicorp.ssactivewear.com/Customers/editinformation.aspx?CustomerID=228520" DesignTimeRectangle="1460, 449, 189, 30" DesignTimeScaleFactor="1.25" FullSelectorArgument="&lt;webctrl class='changelog' tag='DIV' aaname='*Name: *' parentclass='content' /&gt;" FuzzySelectorArgument="&lt;webctrl class='changelog' tag='DIV' aaname='*Name: *' parentclass='content' type='' check:text='10/4 2:51 AM - Name: Kyle-1 (Kyle)uipath auto - Fri, 10/4/2024 2:51 AMName: Kyle-1 (Kyle)' /&gt;" Guid="ae7cd61e-e464-4446-b9aa-7164d5301e3c" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='DEV: Customers - Information' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="55f6cc382e3cda613be2e2199563ff8c.png" xmlns="">07rIMY_whoUO4Jx7IPjGYRA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
