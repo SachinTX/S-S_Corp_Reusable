@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="m86QIEIlX06SFYxaqkxN9A" Reference="2K6Nr8prXkCeYbAkIOHYHg/rN5EV8TOREiFlWn2FyqQgA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://devuicorp.ssactivewear.com/csr/Cart.aspx" CVScreenId="8534f19b-f264-430a-8c1b-791085389f0e" CvElementArea="1308, 406, 251, 34" CvTextArea="1331, 414, 203, 13" CvTextArgument="RE-PRICE TO PRICE LEVEL" CvType="Button" DesignTimeRectangle="1333, 411, 201, 20" DesignTimeScaleFactor="1.25" ElementType="Text" FullSelectorArgument="&lt;webctrl tag='SPAN' aaname='RE-PRICE TO PRICE LEVEL' visibleinnertext='RE-PRICE TO PRICE LEVEL' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='SPAN' visibleinnertext='RE-PRICE TO PRICE LEVEL' type='' class='dx-vam' /&gt;" Guid="39bcfb59-e1cc-438c-a714-0c2d6885922b" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Untitled Page' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive" WaitForReadyArgument="Complete">
+      <imageRef attrName="InformativeScreenshot" originalValue="fe5fbefcdc895fe8d47d4afdedba9e1b.png" xmlns="">0iSwCb5y-AkC-xIA2QV4Vig</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

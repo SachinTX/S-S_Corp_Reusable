@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Btn_Warehouse",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "42mEQhLXgUaMBY_UpCwLgQ",
+  "Reference": "2K6Nr8prXkCeYbAkIOHYHg/42mEQhLXgUaMBY_UpCwLgQ",
+  "ParentRef": "2K6Nr8prXkCeYbAkIOHYHg/w03uU-6lgEuENoWVSlcpKQ",
+  "Created": "2024-10-10T11:20:07.9155716Z",
+  "Updated": "2024-10-10T11:22:02.091738Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.10.3.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.10.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

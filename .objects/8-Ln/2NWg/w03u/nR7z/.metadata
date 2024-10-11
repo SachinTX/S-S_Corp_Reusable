@@ -1,0 +1,16 @@
+﻿{
+  "Name": "DrpDwn_Warehouse_Select",
+  "Type": "Element",
+  "TaxonomyType": "Dropdown",
+  "Id": "nR7z8C0IYECwu-b7tguY8w",
+  "Reference": "2K6Nr8prXkCeYbAkIOHYHg/nR7z8C0IYECwu-b7tguY8w",
+  "ParentRef": "2K6Nr8prXkCeYbAkIOHYHg/w03uU-6lgEuENoWVSlcpKQ",
+  "Created": "2024-10-10T11:44:10.8989364Z",
+  "Updated": "2024-10-10T11:45:37.4810556Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.10.3.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.10.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Input_GlobalSearch",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "oASoMvfMDki1ek6C7do1BA",
+  "Reference": "2K6Nr8prXkCeYbAkIOHYHg/oASoMvfMDki1ek6C7do1BA",
+  "ParentRef": "2K6Nr8prXkCeYbAkIOHYHg/632V0xb2NkqYy0yagjcDhQ",
+  "Created": "2024-09-25T11:07:32.3229905Z",
+  "Updated": "2024-09-25T11:07:32.3229905Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.10.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
