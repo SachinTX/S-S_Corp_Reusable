@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Lbl_ClickCSR",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "Cox4Zqg1gk6XCJdHz4nEBQ",
+  "Reference": "2K6Nr8prXkCeYbAkIOHYHg/Cox4Zqg1gk6XCJdHz4nEBQ",
+  "ParentRef": "2K6Nr8prXkCeYbAkIOHYHg/632V0xb2NkqYy0yagjcDhQ",
+  "Created": "2024-09-24T13:54:29.7636029Z",
+  "Updated": "2024-09-25T08:12:06.7988049Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.10.3.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.10.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

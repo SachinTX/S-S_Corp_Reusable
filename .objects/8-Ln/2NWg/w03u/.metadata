@@ -1,0 +1,15 @@
+﻿{
+  "Name": "WareHouse",
+  "Type": "Screen",
+  "Id": "w03uU-6lgEuENoWVSlcpKQ",
+  "Reference": "2K6Nr8prXkCeYbAkIOHYHg/w03uU-6lgEuENoWVSlcpKQ",
+  "ParentRef": "2K6Nr8prXkCeYbAkIOHYHg/2NWgnAZpYkWem_FMV5zAQQ",
+  "Created": "2024-10-10T11:19:40.9603022Z",
+  "Updated": "2024-10-10T11:19:54.8112099Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.10.3.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.10.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
